@@ -1,0 +1,197 @@
+@media all and (min-width:670px){
+    .openbtn{
+        display: none;
+    }
+}
+
+@media all and (min-width:1441px){
+    header{
+        height:140px;
+    }
+
+    header ul{
+        max-width:2500px;
+        width:100%;
+    }
+
+    header li{
+        font-size: 3em;
+    }
+
+    header a{
+        margin-right: 90px;
+        margin-left: 90px;
+    }
+
+    .top-wrapper h1{
+        font-size: 6.5em;
+    }
+
+    .introduce h1{
+        font-size: 5.5em;
+    }
+
+    .motive{
+        font-size: 2.3em;
+    }
+    
+    .introduce li:not(.motive){
+        font-size: 3em;
+    }
+
+    .works h1{
+        font-size: 5.5em;
+    }
+
+    .works li{
+        font-size: 3em;
+    }
+
+    .skill h1{
+        font-size: 5.5em;
+    }
+
+    .skill h2{
+        font-size: 3em;
+    }
+
+    .skill p{
+        font-size: 2em;
+    }
+    
+    footer h1{
+        font-size: 5.5em;
+    }
+
+    .mail{
+        font-size: 2.2em;
+    }
+}
+
+@media all and (max-width:768px){
+    header li{
+        font-size: 1.1em;
+    }
+
+    .introduce h1{
+        margin-top: 12vh;
+    }
+
+    .motive{
+        font-size: 1.3em;
+    }
+
+    .works h1{
+        margin-top: 12vh;
+    }
+
+    .works li{
+        font-size: 1.4em;
+    }
+
+    .skill h1{
+        margin-top: 10vh;
+    }
+
+    .skill h2{
+        font-size: 1.5em;
+    }
+
+    .skill p{
+        font-size: 0.9em;
+    }
+
+    .skill .contents-box{
+        margin:0.1vh;
+    }
+
+}
+@media all and (max-width:670px){
+    .container{
+        width: 100vh;
+    }
+
+    #g-nav{
+        height:100%;
+    }
+
+    .introduce,.works,.skill{
+        height:auto;
+        width:100vh;
+    }
+
+    .menu{
+        display:none;
+    }    
+
+    .top-wrapper h1{
+        font-size: 3.7em;
+    }
+
+    .introduce h1{
+        font-size: 3.2em;
+    }
+
+    .introduce li{
+        font-size: 1.5em;
+    }
+
+    .works ul{
+        height: auto;
+        text-align: center;
+    }
+
+    .skill .contents-list{
+        width:100vh;
+        text-align: center;
+    }
+
+    .works li,.skill .contents-box{
+        width:90vh;
+        display: block;
+        margin: 0.1vh 5vh;
+    }
+
+    .works h1{
+        font-size: 3.2em;
+    }
+
+    .works li{
+        font-size: 1.5em;
+    }
+
+    .skill h1{
+        font-size: 3.2em;
+    }
+
+    .skill .contents-box{
+        height:30%;
+    }
+
+    .skill p{
+        padding-left: 5vh;
+        padding-right: 5vh;
+    }
+
+    .skill p{
+        font-size: 1.2em;
+    }
+
+    footer{
+        height:100vh;
+        width:100vh;
+    }
+
+    footer h1{
+        margin-top: 18vh;
+        height:20vh;
+        font-size: 3.2em;
+    }
+
+    .mail{
+        font-size: 1em;
+        height:20vh;
+        margin-bottom: 5vh;
+    }
+
+}
