@@ -1,6 +1,6 @@
 ## Name
 
-Portfolio
+kanon koyama's portfolio
 
 <img src="https://github.com/kanonkoyama/sample/assets/110963700/97795cb5-546f-4ab5-9e1e-3310a52e970d" width="200px" height="200px">
 <img src="https://github.com/kanonkoyama/sample/assets/110963700/889b84f1-1cc8-4e4e-a2b7-3b065cd8fdc6" width="200px" height="200px">
