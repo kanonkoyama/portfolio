@@ -83,7 +83,7 @@ header a{
 .introduce{
     position:relative;
     text-align: center;
-    height:100%;
+    height:auto;
     width:100%;
     z-index:2;
     background-color:#FFD5EC;
@@ -113,7 +113,7 @@ header a{
 .works{
     position:relative;
     text-align: center;
-    height:100%;
+    height:auto;
     z-index:2;
     background-color:#EAD9FF;
     color:#ffffff;
@@ -169,7 +169,7 @@ header a{
 .skill{
     position:relative;
     text-align: center;
-    height:100%;
+    height:auto;
     z-index:2;
     background-color:#99FFCC;
     color:#ffffff;
